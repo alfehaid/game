@@ -17,7 +17,6 @@ you have to move the character to water pool by :
 - To go right use key 'right'.
 
 ### The game image:
-https://alfehaid.github.io/game/images/.png
 ![](images/image.png)
 
 ### The game link is:

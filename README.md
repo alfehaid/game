@@ -1,4 +1,4 @@
-frontend-nanodegree-arcade-game project
+#frontend-nanodegree-arcade-game project
 
 How to run the game ?
 To run the game click on index.html page and it will run auto. have fun :)
